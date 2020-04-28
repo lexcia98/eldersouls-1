@@ -174,7 +174,7 @@ This little section will go over some of the installed mods that effect the came
 
 ### Combat - Melee
 
-[Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/33697/) is a streamlined combat overhaul designed to enhance Skyrim’s difficulty and encourage active resource management. Unlike other combat overhauls, it does not seek to import mechanics from other games into Skyrim. Instead, it enhances the existing mechanics of Skyrim’s combat and focuses on tightening the gameplay to allow for more player skill and RPG-like character development.
+[Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) is a streamlined combat overhaul designed to enhance Skyrim’s difficulty and encourage active resource management. Unlike other combat overhauls, it does not seek to import mechanics from other games into Skyrim. Instead, it enhances the existing mechanics of Skyrim’s combat and focuses on tightening the gameplay to allow for more player skill and RPG-like character development.
 
 You should read this mod page.
 
