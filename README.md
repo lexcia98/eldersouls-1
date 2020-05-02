@@ -1,5 +1,6 @@
 # Elder Souls
 
+- [Elder Souls](#elder-souls)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
@@ -242,8 +243,6 @@ The Bijin lineup with [Bijin Wives](https://www.nexusmods.com/skyrimspecialediti
 
 [The Men of Winter](https://www.nexusmods.com/skyrimspecialedition/mods/10902) retextures some Men in Skyrim. I handpicked NPCs from [The Ordinary Women](https://www.nexusmods.com/skyrimspecialedition/mods/12376) and [Kalilies NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30247). The rest is covered by [Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/5291) and [Fresh Faces](https://www.nexusmods.com/skyrimspecialedition/mods/13789). [Ethereal Elven Overhaul](https://www.nexusmods.com/skyrim/mods/24273) is the base for all elves.
 
-[Reyliik Do Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/20575) is used for most of the quest NPCs
-
 The priority looks like this (similar to MO2, the ones at the bottom overwrites the ones at the top):
 
 1. Ethereal Elven Overhaul
@@ -258,8 +257,7 @@ The priority looks like this (similar to MO2, the ones at the bottom overwrites 
 10. Pandorable's NPCs
 11. Pandorable's NPCs - Dragonborn
 12. Pandorable's NPCs - Dawnguard
-13. Reyliik Do Skyrim
-14. Simple Children
+13. Simple Children
 
 [Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) protects the modesty of our elders.
 
