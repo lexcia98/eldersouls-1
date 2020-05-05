@@ -1,13 +1,83 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.0.3: Various Fixes](#103-various-fixes)
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
 
+## 1.0.3: Various Fixes
+
+**Released at**: ``
+
+**Info**:
+
+Due to the unfortunate fact that there are a few stability problems currently I've
+edited `Elder Souls - Death` to provide one `Elder Scroll - Break` every fifteen
+minutes. This 'feature' will be removed once the stability concerns at hand are
+resolved.
+
+**Changes**:
+
+- Fixed
+
+  - Added another 61 possible respawn locations.
+  - [Add Beds to Tagged](https://github.com/jdsmith2816/eldersouls/issues/33)
+  - [Old Windmill Inn Untextured](https://github.com/jdsmith2816/eldersouls/issues/35)
+  - Patched Warmonger Armory belt-fastened dragon priest masks for Frankly HD Miraak
+  - Patched Warmonger Armory belt-fastened dragon priest masks for Masks of the Dovah Sonaak
+  - [RaceMenu](https://github.com/jdsmith2816/eldersouls/issues/17)
+  - [SQM and Sneak Keybind after reload](https://github.com/jdsmith2816/eldersouls/issues/18)
+
+- Won't Fix
+
+  - [Game save option](https://github.com/jdsmith2816/eldersouls/issues/32)
+  - [Switch from UNP to CBBE](https://github.com/jdsmith2816/eldersouls/issues/29)
+
+- Added
+
+  - BodySlide and Outfit Studio
+  - CBBE
+  - Common Clothes and Armors - CBBE Patch
+  - Cover Khajiit
+  - Forgotten Argonian Roots
+  - Frankly HD Dawnguard Armor and Weapons - CBBE Patch
+  - Frankly HD Miraak - CBBE Patch
+  - Frankly HD Nightingale Armor and Weapons - CBBE Patch
+  - Practical Female Armors - CBBE Patch
+  - Pride of Valhalla - Niflheim - CBBE
+  - Prince and the Pauper - Orphan Clothes HD
+  - Project Clarity - Vanilla Armor and Textures Redone
+  - Rapid Rocks
+  - RUSTIC AMULETS
+  - SSE Display Tweaks
+  - Talisman of Treachery HD
+  - Talos Amulet SD
+  - WACCF CBBE Patch
+  - Warmonger's Armory Bodyslide Fil3s
+
+- Removed
+
+  - Havok Fixes
+  - Modest Elderly
+  - Pride of Valhalla - Niflheim - UNP
+  - Remiro's Ancient Falmer Armor - UNP Patch
+  - UNP Body Fit Female Armors and Clothing
+  - UNP Female Body Renewal
+
+- Updated
+  - Adamant - A Perk Overhaul
+  - Alternate Alchemy
+  - Better Dynamic Majestic Mountains
+  - Improved College Entry - Questline Tweaks
+  - Majestic Mountains - Cathedral Concept
+  - Majestic Mountains - Northside
+  - Misc Dialogue Edits
+  - Reliquary of Myth
+
 ## 1.0.2: No Moar BSAs
 
-**Released at**: `28.04.2020`
+**Released at**: `01.05.2020`
 
 **Info**:
 
@@ -32,7 +102,7 @@ See below for the various other updates and changes included in this update.
 - Fixed
 
   - [Bugged door in Helgen](https://github.com/jdsmith2816/eldersouls/issues/14)
-  - [Chest in tree](**https**://github.com/jdsmith2816/eldersouls/issues/5)
+  - [Chest in tree](https://github.com/jdsmith2816/eldersouls/issues/5)
   - [Dave's Whiterun in BSA Textures Not Loading Correctly.](https://github.com/jdsmith2816/eldersouls/issues/10)
   - [Floating tree at Old Hroldan Inn](https://github.com/jdsmith2816/eldersouls/issues/21)
   - [Floating tree outside Solitude](https://github.com/jdsmith2816/eldersouls/issues/16)
