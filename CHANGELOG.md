@@ -8,7 +8,7 @@
 
 ## 1.0.3: Various Fixes
 
-**Released at**: ``
+**Released at**: `04.05.2020`
 
 **Info**:
 
