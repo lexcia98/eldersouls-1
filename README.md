@@ -259,8 +259,6 @@ The priority looks like this (similar to MO2, the ones at the bottom overwrites 
 12. Pandorable's NPCs - Dawnguard
 13. Simple Children
 
-[Modest Elderly](https://www.nexusmods.com/skyrimspecialedition/mods/7935) protects the modesty of our elders.
-
 ### Followers
 
 [Daanik the Returned](https://www.nexusmods.com/skyrimspecialedition/mods/21728/) is a powerful lich boss that you can summon to fight for you assuming that you can defeat him in combat.

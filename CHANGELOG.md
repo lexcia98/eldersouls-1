@@ -1,10 +1,97 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.0: Gold on Corpses](#110-gold-on-corpses)
   - [1.0.3: Various Fixes](#103-various-fixes)
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.0: Gold on Corpses
+
+**Released at**: `10.05.2020`
+
+**Info**:
+
+The primary focus of this release is fixes and quality of life updates for the
+`Elder Souls - Death` mod. This release makes grave markers highly visible and
+ensures that all enemies now have an amount of liquid currency on their corpse.
+Additionally you can now disable `Elder Souls - Death` prior to creating your
+character if you wish to play without the custom character progression and death
+system.
+
+**This update is most likely _NOT_ save-file safe. If you wish to continue playing
+with your current save then _DO NOT_ update to v1.1.0** No support will be given
+for those that choose to ignore this warning!
+
+**Changes**:
+
+- Issues
+
+  - Fixed
+
+    - [Black Mage Armor SE Mod](https://github.com/jdsmith2816/eldersouls/issues/52)
+    - [CTD upon entering Whiterun](https://github.com/jdsmith2816/eldersouls/issues/43)
+    - [DCR King Crusader Armor](https://github.com/jdsmith2816/eldersouls/issues/46)
+    - [Death waypoint](https://github.com/jdsmith2816/eldersouls/issues/24)
+    - [Disable Dark Souls Leveling for Crafting Skills Only](https://github.com/jdsmith2816/eldersouls/issues/51)
+    - [Gravemaker map marker](https://github.com/jdsmith2816/eldersouls/issues/7)
+    - [Halamshiral Missing Textures](https://github.com/jdsmith2816/eldersouls/issues/55)
+    - [Lock pick breaking adds skill xp](https://github.com/jdsmith2816/eldersouls/issues/37)
+    - Remove Glenmoril weapons from vanilla lists
+    - Remove Runes and Covenants from lists
+    - Vanila alternative weapons now populate the lists properly
+
+  - Won't Fix
+
+    - [Adding SKYTWEAK](https://github.com/jdsmith2816/eldersouls/issues/44)
+    - [Tomebound](https://github.com/jdsmith2816/eldersouls/issues/54)
+
+- Mods
+
+  - Added
+
+    - Arch-Knight Judicator Armor and Greatsword
+    - Black Mage Armor
+    - Blackened Steel
+    - DCR King Crusader Armor
+    - Dreaded Relics
+    - Dynamic Dungeon Loot - Retexture and Remesh for Exotic Weapons
+    - Ghouls
+    - Honed Metal
+    - Honed Metal - Voiced
+    - Morrowloot Miscellania - Bound Weapons
+    - Mortal Enemies
+    - Reaper Paladin Armor Set
+    - Reaper Weapon Kit
+    - Revenants of the Forbidden Order
+    - Sea Giants
+    - Skyrim 2020
+    - Stalhrim Paladin Armor
+    - Supreme Dwemer Spheres
+    - Thri-kreen Warriors
+    - Vampire Greatsword
+
+  - Removed
+
+    - Skyrim HD Environments
+    - Snow and Rock TEXTURES HD
+    - Upgrade for Large Imperial Tent
+
+  - Updated
+    - Briraka's Draugr Overhaul
+    - Dear Diary - Dark Mode
+    - Dear Diary - Dark Mode - 21x9
+    - DynDOLOD Resources
+    - Improved College Entry - Questline tweaks
+    - Majestic Mountains
+    - Men of Winter
+    - moreHUD
+    - moreHUD Inventory Edition
+    - Nether's Follower Framework
+    - Project Clarity - Vanilla Armor Textures Redone
+    - Reliquary of Myths
+    - SSE Display Tweaks
 
 ## 1.0.3: Various Fixes
 
