@@ -12,7 +12,7 @@
 
 **Released at**: `11.05.2020`
 
-** Info**:
+**Info**:
 
 v1.1.0 suffered from a CTD caused by the new highly visible gravemarker. I have
 reverted to the original gravemarker and re-opened [Gravemaker map marker](https://github.com/jdsmith2816/eldersouls/issues/7)
