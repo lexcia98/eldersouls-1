@@ -1,11 +1,21 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.1: Fix the Gravemarker](#111-fix-the-gravemarker)
   - [1.1.0: Gold on Corpses](#110-gold-on-corpses)
   - [1.0.3: Various Fixes](#103-various-fixes)
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.1: Fix the Gravemarker
+
+**Released at**: `11.05.2020`
+
+** Info**:
+
+v1.1.0 suffered from a CTD caused by the new highly visible gravemarker. I have
+reverted to the original gravemarker and re-opened [Gravemaker map marker](https://github.com/jdsmith2816/eldersouls/issues/7)
 
 ## 1.1.0: Gold on Corpses
 
