@@ -1,12 +1,46 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.2: Various Fixes](#112-various-fixes)
   - [1.1.1: Fix the Gravemarker](#111-fix-the-gravemarker)
   - [1.1.0: Gold on Corpses](#110-gold-on-corpses)
   - [1.0.3: Various Fixes](#103-various-fixes)
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.2: Various Fixes
+
+**Released at**: `12.05.2020`
+
+**Info**:
+
+Forced update due to mod dependencies.
+
+**Changes**:
+
+- Issues
+
+  - Fixed
+
+    - [Auris Neck](https://github.com/jdsmith2816/eldersouls/issues/3)
+    - [Bugged Texture in Ragged Flagon](https://github.com/jdsmith2816/eldersouls/issues/64)
+    - [Pre-placed Corpses contain Bonus Gold](https://github.com/jdsmith2816/eldersouls/issues/58)
+    - [Whiterun Lod issues](https://github.com/jdsmith2816/eldersouls/issues/59)
+
+  - Won't Fix
+    - [Remove Crafting skills from the Purchase Skill Level screen](https://github.com/jdsmith2816/eldersouls/issues/60)
+    - [Skills leveling](https://github.com/jdsmith2816/eldersouls/issues/62)
+
+- Mods
+  - Added
+    - Song of the Green - Auri Replacer - Ella's version
+  - Updated
+    - Better Dynamic Majestic Mountains
+    - Reliquary of Myth
+    - Serana Dialogue Add-On
+    - SSE Display Tweaks
+    - SSE Engine Fixes
 
 ## 1.1.1: Fix the Gravemarker
 
