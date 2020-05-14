@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.3: Various Fixes](#113-various-fixes)
   - [1.1.2: Various Fixes](#112-various-fixes)
   - [1.1.1: Fix the Gravemarker](#111-fix-the-gravemarker)
   - [1.1.0: Gold on Corpses](#110-gold-on-corpses)
@@ -8,6 +9,28 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.3: Various Fixes
+
+**Released at**: `14.05.2020`
+
+**Info**:
+
+Forced update due to mod dependencies. Elder Souls - Death has been updated to
+grant gold on kill based on enemy level. In order for these changes to apply
+to your already existing characters you need to delete `ElderSouls_DeathScript`
+from your save using `Fallrim Tools`
+
+There is no reason to update if you're happy with the current gold granting
+system in ESD. Wait for a new character.
+
+**Changes**:
+
+- Mods
+  - Updated
+    - Aetherious
+    - Elder Souls - Death
+    - Reliquary of Myths
 
 ## 1.1.2: Various Fixes
 
