@@ -297,8 +297,6 @@ In addition to the above Glenmoril, Darkend, Unslaad and Vigilant add in many mo
 
 [Skyrim Weapon Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/32500) integrates over 100 high quality and balanced weapon variants into the vanilla game through crafting and leveled lists.
 
-[Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369), [Divine Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9304), [Daedric Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9530) and [Artesian Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17416) provide pretty physics enabled capes and integrates them into the world.
-
 [Legendary Skyrim Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/8273) is a full crossbow expansion for Skyrim. There are crossbows for each material type, artifact crossbows, faction crossbows and they have been added seamlessly into the whole of Skyrim. Enemies will now have a chance of using crossbows and you will find them just like you would any other type of weapon.
 
 [Warmonger Armory](https://www.nexusmods.com/skyrimspecialedition/mods/17809) aims to add immersion to your Skyrim experience adding new lore friendly Armors, Weapons and Clothes for both Vanilla Game and DLCs. All the added content is inspired from the classic Elder Scrolls Archetypes and is made with compatibility in mind.
