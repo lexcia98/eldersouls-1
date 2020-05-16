@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.4: Loot Overhaul #1](#114-loot-overhaul-1)
   - [1.1.3: Various Fixes](#113-various-fixes)
   - [1.1.2: Various Fixes](#112-various-fixes)
   - [1.1.1: Fix the Gravemarker](#111-fix-the-gravemarker)
@@ -9,6 +10,41 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.4: Loot Overhaul #1
+
+**Released at**: `14.05.2020`
+
+**Info**:
+Forced update due to mod changes. Loot has been overhauled bringing it closer
+to the MLU style model of rarity.  Monsters still need to have their loot updated
+to make them fall in line... I didn't have time to do that before the installer
+stopped working.
+
+Midgame update should be safe but you might experience some missing items and 
+such due to the loot list changes.
+
+**Changes**:
+
+- Mods
+  - Added
+    - aMidianBorn Content Addon
+    - HookShareSSE
+    - Morrowloot Miscellania - Hybrid Loot
+    - QuickLootRE
+    - QuickLootRe and HookShareSSE - Unofficial Update
+  - Removed
+    - Dynamic Dungeon Loot
+    - MisterB's Unique Treasures
+    - MisterB's Ultimate Loot Mod Patch
+    - Thematic Loot
+  - Updated
+    - Adamant
+    - Aetherius
+    - Briraka's Draugr Overhaul
+    - CK64Fixes
+    - Mundus
+    - SSE Display Tweaks
 
 ## 1.1.3: Various Fixes
 
