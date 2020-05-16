@@ -13,7 +13,7 @@
 
 ## 1.1.4: Loot Overhaul #1
 
-**Released at**: `14.05.2020`
+**Released at**: `16.05.2020`
 
 **Info**:
 Forced update due to mod changes. Loot has been overhauled bringing it closer
