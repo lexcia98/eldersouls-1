@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.5: Various Mod Updates](#115-various-mod-updates)
   - [1.1.4: Loot Overhaul #1](#114-loot-overhaul-1)
   - [1.1.3: Various Fixes](#113-various-fixes)
   - [1.1.2: Various Fixes](#112-various-fixes)
@@ -10,6 +11,26 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.5: Various Mod Updates
+
+**Released at**: `19.05.2020`
+
+**Info**:
+
+Fixing broken installer due to mod updates.  Includes a rather large
+change to Blade & Blunt.  You should go read the mod page.
+
+**Changes**:
+- Mods
+  - Added
+  - Removed
+  - Updated
+    - Blade and Blunt
+    - Dwemer Spectres EBT Patch
+    - Project Clarity
+    - Reliquary of Myth
+    - Storm Lightning
 
 ## 1.1.4: Loot Overhaul #1
 
