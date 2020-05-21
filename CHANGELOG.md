@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.6: Various Mod Updates](#116-various-mod-updates)
   - [1.1.5: Various Mod Updates](#115-various-mod-updates)
   - [1.1.4: Loot Overhaul #1](#114-loot-overhaul-1)
   - [1.1.3: Various Fixes](#113-various-fixes)
@@ -12,11 +13,36 @@
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
 
+## 1.1.6: Various Mod Updates
+
+**Released at**: `20.05.2020`
+
+**Info**:
+
+Many bugs were fixed for 1.1.6 but ended up not being included since
+the installer was broken before these changes could be wrapped up.
+They will be included in 1.1.7.
+
+Fixing broken installer due to mod updates. While this upgrade is save
+safe there is absolutely no need to upgrade for this..
+
+**Changes**:
+- Mods
+  - Added
+  - Removed
+  - Updated
+    - Refracting Icicle
+    - Tools of Kagrenac
+
 ## 1.1.5: Various Mod Updates
 
 **Released at**: `19.05.2020`
 
 **Info**:
+
+Many bugs were fixed for 1.1.5 but ended up not being included since
+the installer was broken before these changes could be wrapped up.
+They will be included in 1.1.6.
 
 Fixing broken installer due to mod updates.  Includes a rather large
 change to Blade & Blunt.  You should go read the mod page.
