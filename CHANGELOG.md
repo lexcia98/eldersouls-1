@@ -1,6 +1,7 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.7: Lots of Fixes](#117-lots-of-fixes)
   - [1.1.6: Various Mod Updates](#116-various-mod-updates)
   - [1.1.5: Various Mod Updates](#115-various-mod-updates)
   - [1.1.4: Loot Overhaul #1](#114-loot-overhaul-1)
@@ -12,6 +13,53 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.7: Lots of Fixes
+
+**Released at**: `21.05.2020`
+
+**Info**:
+
+**Changes**:
+- Issues
+  - Duplicate
+    - [Tilma The Haggard Invisible Hands](https://github.com/jdsmith2816/eldersouls/issues/47)
+
+  - Fixed
+    - [Add Beds to Tagged](https://github.com/jdsmith2816/eldersouls/issues/33)
+    - [Aesthetics, Visuals, Trees, Assets, Sounds - Bugs](https://github.com/jdsmith2816/eldersouls/issues/28)
+    - [Auto Loot Gold and Gold Souls](https://github.com/jdsmith2816/eldersouls/issues/57)
+    - [Farengar's Orb Causes Framerate Drop](https://github.com/jdsmith2816/eldersouls/issues/40)
+    - [Floating Tree at Incautious Bather grove](https://github.com/jdsmith2816/eldersouls/issues/49)
+    - [Fortification talent Rank 1 Gives Wrong Armor Amount](https://github.com/jdsmith2816/eldersouls/issues/83)
+    - [Random tree in Millwater Retreat](https://github.com/jdsmith2816/eldersouls/issues/82)
+    - [Send charlie to get rid of the rats](https://github.com/jdsmith2816/eldersouls/issues/77)
+
+  - Can't Reproduce / Invalid / Won't Fix
+    - [Arcane Weapon Greatsword form missing texture](https://github.com/jdsmith2816/eldersouls/issues/70)
+    - [Broken visuals on specific Ghost](https://github.com/jdsmith2816/eldersouls/issues/63)
+    - [Crash when equipping poisoned crossbow](https://github.com/jdsmith2816/eldersouls/issues/41)
+    - [Crashing Upon Entering Windhelm (Elder Souls 1.0.2)](https://github.com/jdsmith2816/eldersouls/issues/34)
+    - [Failure to download all of the filles through wabbajack (always the same ones)](https://github.com/jdsmith2816/eldersouls/issues/90)
+    - [Grant level up on gaining dragon soul](https://github.com/jdsmith2816/eldersouls/issues/25)
+    - [Inigo Arrows Crash](https://github.com/jdsmith2816/eldersouls/issues/31)
+    - [Inventory-invisible items](https://github.com/jdsmith2816/eldersouls/issues/73)
+    - [Missing ship at Raven Rock dock](https://github.com/jdsmith2816/eldersouls/issues/74)
+    - [Skill trees](https://github.com/jdsmith2816/eldersouls/issues/85)
+
+
+- Mods
+  - Added
+    - Abyssal Gaoler
+    - Best in Class++
+    - No Grassias
+    - Project Clarity - Weapons
+  - Removed
+  - Updated
+    - aMidianborn Book of Silence
+    - Morrowloot Miscellania - Hybrid Loot
+    - Serana Dialogue Add-On
+
 
 ## 1.1.6: Various Mod Updates
 
