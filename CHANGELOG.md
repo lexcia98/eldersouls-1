@@ -1,6 +1,8 @@
 # Changelog
 
 - [Changelog](#changelog)
+  - [1.1.10: Various Mod Updates](#1110-various-mod-updates)
+  - [1.1.9: Various Mod Updates](#119-various-mod-updates)
   - [1.1.8: Various Mod Updates](#118-various-mod-updates)
   - [1.1.7: Lots of Fixes](#117-lots-of-fixes)
   - [1.1.6: Various Mod Updates](#116-various-mod-updates)
@@ -14,6 +16,53 @@
   - [1.0.2: No Moar BSAs](#102-no-moar-bsas)
   - [1.0.1: Minor update due to mod changes](#101-minor-update-due-to-mod-changes)
   - [1.0.0: Initial Release](#100-initial-release)
+
+## 1.1.10: Various Mod Updates
+
+**Released at**: `01.06.2020`
+
+**Info**:
+
+Just changes necessary to get the installer working again.
+
+***Totally savefile safe IF you
+follow the DynDOLOD update procedure...***
+
+**Changes**:
+
+- Mods
+  - Added
+    - Skyrim 3D Trees
+  - Removed
+    - Skyrim 3D Plants
+
+## 1.1.9: Various Mod Updates
+
+**Released at**: `26.05.2020`
+
+**Info**:
+
+**Changes**:
+
+- Issues
+  - Fixed
+    - [Tilma the Haggard - NPC with no body](https://github.com/jdsmith2816/eldersouls/issues/38)
+    - 
+  - Duplicate
+    - [Ancient Lich (Forgotten Magic Mod) doesn't give gold to player on enemy's death](https://github.com/jdsmith2816/eldersouls/issues/109)
+    - [No Gold Given From Kills Using "Rip and Tear" Skill](https://github.com/jdsmith2816/eldersouls/issues/101)
+
+- Mods
+  - Added
+    - Ice Cave Parallax Improved
+    - Modest Elderly
+  - Updated
+    - Abyssal Gaoler
+    - Blade & Blunt
+    - Dragons Tongue by Mari
+    - Reliquary of Myth
+    - Tools of Kagrenac
+    - Transparent and Refracting Icicle and Frost Atronach
 
 ## 1.1.8: Various Mod Updates
 
