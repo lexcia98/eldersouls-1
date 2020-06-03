@@ -107,21 +107,27 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release of Elder Souls from [the release tab](https://github.com/jdsmith2816/eldersouls/releases).
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` folder on the root of your drive such as C:/Wabbajack. This is your _working folder_ when the term is used again.
 
+Let's get to the actual installation. Grab the latest release of Elder Souls from [the release tab](https://github.com/jdsmith2816/eldersouls/releases) or by running Wabbajack and selecting Browse Modlists.
+
+If Downloading From Browse Modlists
+After clicking Browse Modlists, scroll until you find Elder Souls and click the download modlist button, an arrow pointing down with a horizontal arrow. After downloading it will take you to a new screen to select Download Location and Installation Location.
+
+If Downloading From Release Tab
 Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
-
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load the Modlist from Disk
+2. Load the Modlist from Disk by clicking Install from Disk
 3. Adjust the download and installation paths
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
+
+The Installation Location must NOT be your Skyrim folder. Your Download Location by default will be a folder inside your Installation Location. Using the same Download Location for multiple lists will help prevent downloading mods shared by the lists multiple times but is not necessary.
 
 ##### Problems with Wabbajack
 
@@ -129,7 +135,15 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
+If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist. Some mods are known to have difficulty downloading through Wabbajack for some people and are linked here for convenience.
+
+[SHIT Mod](https://www.loverslab.com/files/file/6981-shit-mod-mesh-improvement-mod/?do=download&r=714144&confirm=1&t=1)
+
+[DS3 Weapon Pack](https://www.loverslab.com/files/file/8567-ds3-weapon-pack-se/?do=download&r=701641&confirm=1&t=1)
+
+[Dark Souls Sound Overhaul](https://www.loverslab.com/files/file/990-dark-souls-sound-overhaul/?do=download&r=100225&confirm=1&t=1)
+
+[Insanity's Texture Pack](http://tesalliance.org/forums/index.php?/files/file/1098-insanitys-texture-pack-skyrim/)
 
 **x is not a whitelisted download**:
 
@@ -145,7 +159,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
 
-Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+Copy the all of the files from the the Game Folder Files directory inside where you installed Elder Souls into your game folder. If you see skse64+loader.exe in the folder, you're in the right folder.
 
 ## Updating
 
